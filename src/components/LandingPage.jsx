@@ -7,10 +7,10 @@ const LandingPage = () => {
       <div className='absolute z-1 w-full h-full flex'>
         <div className='w-[50vw] h-full flex flex-col items-center justify-center'>
           <div className='h-[25%] w-full'></div>
-          <div className='h-[25%] w-full flex flex-col items-start justify-center ml-20'>
-            <h1>Building a</h1>
-            <h1>Greener</h1>
-            <h1>Agra</h1>
+          <div className='h-[25%] w-full flex flex-col items-start justify-center ml-32'>
+            <h1 className='text-8xl'>Building a</h1>
+            <h1 className='text-8xl'>Greener</h1>
+            <h1 className='text-8xl'>Agra</h1>
           </div>
           <div className='h-[25%] w-full'></div>
           <div className='h-[25%] w-full'></div>
