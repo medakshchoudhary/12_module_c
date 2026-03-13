@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: Outfit-variable;
+  font-weight: 100 900;
+  src: url("/public/Fonts/Outfit/Outfit-VariableFont_wght.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: Publicsans-variable;
+  font-weight: 100 900;
+  src: url("/public/Fonts/Public_Sans/PublicSans-VariableFont_wght.ttf") format("ttf");
+}
